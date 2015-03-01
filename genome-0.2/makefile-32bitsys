@@ -1,0 +1,27 @@
+# module name
+NAME = genome-32bit
+
+# switches
+SW = -O2 -Wall -m32
+
+# libreries
+LIB = -lm
+
+# compiler
+CC = g++
+
+# main module 
+
+OBJ = Main.o genome.o  Random.o Error.o stochastic.o
+
+$(NAME): $(OBJ)
+	$(CC) -o $(NAME) $(OBJ) $(LIB) $(SW)
+
+.cpp.o : 
+	$(CC) $(SW) -o $@ -c $*.cpp 
+
+.SUFFIXES : .cpp .c .o $(SUFFIXES)
+
+clean : 
+	rm -rf *.o core*
+
