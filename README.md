@@ -10,6 +10,10 @@ Link for my Documentation: file:///Users/dianeplaut/Desktop/Src/germline-1-5-1/G
 
 Germline Website: http://www1.cs.columbia.edu/~gusev/germline/
 
+Genome Documentation: http://csg.sph.umich.edu/liang/genome/
+
+Shapeit Documentation: https://mathgen.stats.ox.ac.uk/genetics_software/shapeit/shapeit.html
+
 
 Directories Key:
 
