@@ -1,0 +1,6 @@
+<map id="Match::extendBack" name="Match::extendBack">
+<area shape="rect" id="node2" href="$classMatch.html#a7c47a9c7017d308d2ae58fac5a204179" title="Match::approxEqual" alt="" coords="200,60,353,91"/>
+<area shape="rect" id="node3" href="$classIndividual.html#adab24d093d691c3e84bdce0b2d2f3a81" title="Individual::getChromosome" alt="" coords="402,5,603,37"/>
+<area shape="rect" id="node4" href="$classMarkerSet.html#a4875bf7f161c77ff90c15936fee29ff0" title="MarkerSet::getMarkerBits" alt="" coords="407,60,598,91"/>
+<area shape="rect" id="node5" href="$classChromosome.html#a6acf26d0b4a7e2651be613ea14c20a1b" title="Chromosome::getMarkerSet" alt="" coords="401,115,604,146"/>
+</map>

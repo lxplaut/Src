@@ -1,0 +1,7 @@
+<map id="SNPs::getSNP" name="SNPs::getSNP">
+<area shape="rect" id="node2" href="$classMatch.html#ac0f1cc64fb2cf592a1d9d8e896348855" title="Match::chromosome" alt="" coords="168,5,322,37"/>
+<area shape="rect" id="node3" href="$classMatch.html#ad30f24028e020b3fa6c8fb542daf588a" title="Match::physicalEnd" alt="" coords="170,60,320,91"/>
+<area shape="rect" id="node4" href="$classMatch.html#a5b5d63d426bda95b69d9c10df84684e4" title="Match::physicalStart" alt="" coords="168,115,323,146"/>
+<area shape="rect" id="node5" href="$classMarkerSet.html#a828ddac806bf40c720bcba3da33f1a28" title="MarkerSet::print" alt="" coords="181,169,309,201"/>
+<area shape="rect" id="node6" href="$classMatch.html#a989ae28b68842fc096ee6edb8c1595fd" title="Match::print" alt="" coords="195,224,296,255"/>
+</map>

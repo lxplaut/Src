@@ -1,0 +1,6 @@
+<map id="HMIndividualsExtractor::loadMarkerSet" name="HMIndividualsExtractor::loadMarkerSet">
+<area shape="rect" id="node2" href="$classSNPs.html#ab60d36a9d490c8d5d155134170ffd2dc" title="SNPs::currentSize" alt="" coords="252,5,391,37"/>
+<area shape="rect" id="node3" href="$classSNP.html#a3891a5225af3d8916c14557accb17e6c" title="SNP::getMarkerNumber" alt="" coords="232,60,411,91"/>
+<area shape="rect" id="node4" href="$classSNPs.html#ae27666e68ba06ba960eeced83704ef9d" title="SNPs::getROIStart" alt="" coords="250,115,393,146"/>
+<area shape="rect" id="node5" href="$classMarkerSet.html#a18b07d89da5718fdae652a6ada7267be" title="MarkerSet::set" alt="" coords="264,169,379,201"/>
+</map>

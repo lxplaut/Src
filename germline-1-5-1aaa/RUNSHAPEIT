@@ -1,0 +1,61 @@
+
+
+##  Decide which files are input to shapeit
+
+##  Decide names of output files
+
+## $1 bed
+## $2 bim
+## $3 fam
+## $4 input-map
+## $5 generated name
+
+##EXAMPLE EXECUTION
+###bash RUNSHAPEIT  gwas.bed gwas.bim gwas.fam  genetic_map.txt alextest
+
+
+
+
+## run shapeit
+
+
+
+
+
+
+cd /Users/dianeplaut/Desktop/Src/shapeit.v2.r790.MacOSX/example
+
+/Users/dianeplaut/Desktop/Src/shapeit.v2.r790.MacOSX/shapeit --input-bed $1 $2 $3 \
+        --input-map $4 \
+        --output-max /tmp/,haps.$$ /tmp/,phased.sample.$$
+
+#../shapeit --input-bed gwas.bed gwas.bim gwas.fam --input-map genetic_map.txt --output-max gwas.phased.haps gwas.phased.sample
+
+
+
+
+##  use names of output files to write a new run file to direct germline, e.g.,
+
+## below is a sample alextest.run file, and at least the 2nd and 3rd lines would be replaced
+
+#1
+#test/gwas.phased.sample
+#test/gwas.phased.haps
+#test/alexgenerated
+
+echo "1" > /tmp/,run.$$
+echo /tmp/,phased.sample.$$ >> /tmp/,run.$$
+echo /tmp/,haps.$$ >> /tmp/,run.$$
+echo -n "test/" >>/tmp/,run.$$
+echo "$5"  >>/tmp/,run.$$
+
+
+
+
+
+
+##  run germline, using the name of the run file created above
+
+cd /Users/dianeplaut/Desktop/Src/germline-1-5-1aaa
+
+./germline -silent -bits 50 -min_m 1 -err_hom 2 -err_het 0 < /tmp/,run.$$ > test/$5.out 2> test/$5.err

@@ -1,0 +1,37 @@
+<map id="BasicDefinitions.h" name="BasicDefinitions.h">
+<area shape="rect" id="node2" href="$InputManager_8h.html" title="InputManager.h" alt="" coords="665,560,789,591"/>
+<area shape="rect" id="node3" href="$GERMLINE_8h.html" title="GERMLINE.h" alt="" coords="507,718,623,749"/>
+<area shape="rect" id="node7" href="$Individuals_8h.html" title="Individuals.h" alt="" coords="550,401,655,433"/>
+<area shape="rect" id="node9" href="$MatchesBuilder_8h.html" title="MatchesBuilder.h" alt="" coords="655,639,790,670"/>
+<area shape="rect" id="node11" href="$HMIndividualsExtractor_8h.html" title="HMIndividualsExtractor.h" alt="" coords="1239,560,1430,591"/>
+<area shape="rect" id="node13" href="$PEDIndividualsExtractor_8h.html" title="PEDIndividualsExtractor.h" alt="" coords="1454,560,1650,591"/>
+<area shape="rect" id="node16" href="$Individual_8h.html" title="Individual.h" alt="" coords="294,481,394,512"/>
+<area shape="rect" id="node17" href="$Match_8h.html" title="Match.h" alt="" coords="59,560,133,591"/>
+<area shape="rect" id="node24" href="$Chromosome_8h.html" title="Chromosome.h" alt="" coords="519,322,638,353"/>
+<area shape="rect" id="node26" href="$ChromosomePair_8h.html" title="ChromosomePair.h" alt="" coords="763,401,909,433"/>
+<area shape="rect" id="node28" href="$MarkerSet_8h.html" title="MarkerSet.h" alt="" coords="436,243,537,274"/>
+<area shape="rect" id="node30" href="$SNPs_8h.html" title="SNPs.h" alt="" coords="916,164,985,195"/>
+<area shape="rect" id="node32" href="$NucleotideMap_8h.html" title="NucleotideMap.h" alt="" coords="1320,85,1453,116"/>
+<area shape="rect" id="node34" href="$SNP_8h.html" title="SNP.h" alt="" coords="822,85,885,116"/>
+<area shape="rect" id="node36" href="$SharedSegmentPointer_8h.html" title="SharedSegmentPointer.h" alt="" coords="1643,85,1823,116"/>
+<area shape="rect" id="node6" href="$InputManager_8cpp.html" title="InputManager.cpp" alt="" coords="1069,639,1208,670"/>
+<area shape="rect" id="node4" href="$GERMLINE__0001_8cpp.html" title="GERMLINE_0001.cpp" alt="" coords="393,797,564,829"/>
+<area shape="rect" id="node5" href="$GERMLINE_8cpp.html" title="GERMLINE.cpp" alt="" coords="588,797,719,829"/>
+<area shape="rect" id="node8" href="$PolymorphicIndividualsExtractor_8h.html" title="PolymorphicIndividualsExtractor.h" alt="" coords="999,481,1246,512"/>
+<area shape="rect" id="node23" href="$Individuals_8cpp.html" title="Individuals.cpp" alt="" coords="468,481,588,512"/>
+<area shape="rect" id="node15" href="$PolymorphicIndividualsExtractor_8cpp.html" title="PolymorphicIndividualsExtractor.cpp" alt="" coords="953,560,1215,591"/>
+<area shape="rect" id="node10" href="$MatchesBuilder_8cpp.html" title="MatchesBuilder.cpp" alt="" coords="647,718,798,749"/>
+<area shape="rect" id="node12" href="$HMIndividualsExtractor_8cpp.html" title="HMIndividualsExtractor.cpp" alt="" coords="1232,639,1437,670"/>
+<area shape="rect" id="node14" href="$PEDIndividualsExtractor_8cpp.html" title="PEDIndividualsExtractor.cpp" alt="" coords="1462,639,1672,670"/>
+<area shape="rect" id="node19" href="$MatchFactory_8h.html" title="MatchFactory.h" alt="" coords="157,560,280,591"/>
+<area shape="rect" id="node21" href="$Share_8cpp.html" title="Share.cpp" alt="" coords="443,560,528,591"/>
+<area shape="rect" id="node22" href="$Individual_8cpp.html" title="Individual.cpp" alt="" coords="304,560,418,591"/>
+<area shape="rect" id="node18" href="$Match_8cpp.html" title="Match.cpp" alt="" coords="46,639,135,670"/>
+<area shape="rect" id="node20" href="$MatchFactory_8cpp.html" title="MatchFactory.cpp" alt="" coords="159,639,297,670"/>
+<area shape="rect" id="node25" href="$Chromosome_8cpp.html" title="Chromosome.cpp" alt="" coords="342,401,477,433"/>
+<area shape="rect" id="node27" href="$ChromosomePair_8cpp.html" title="ChromosomePair.cpp" alt="" coords="764,481,924,512"/>
+<area shape="rect" id="node29" href="$MarkerSet_8cpp.html" title="MarkerSet.cpp" alt="" coords="379,322,495,353"/>
+<area shape="rect" id="node31" href="$SNPs_8cpp.html" title="SNPs.cpp" alt="" coords="909,243,993,274"/>
+<area shape="rect" id="node33" href="$NucleotideMap_8cpp.html" title="NucleotideMap.cpp" alt="" coords="1422,164,1570,195"/>
+<area shape="rect" id="node35" href="$SNP_8cpp.html" title="SNP.cpp" alt="" coords="814,164,892,195"/>
+</map>

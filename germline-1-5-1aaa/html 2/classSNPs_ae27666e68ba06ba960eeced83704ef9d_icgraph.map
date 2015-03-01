@@ -1,0 +1,7 @@
+<map id="SNPs::getROIStart" name="SNPs::getROIStart">
+<area shape="rect" id="node2" href="$classPEDIndividualsExtractor.html#af11b156fe02d076d45f490b1d240f81c" title="PEDIndividualsExtractor\l::getCompleteMarkerSet" alt="" coords="196,5,380,56"/>
+<area shape="rect" id="node3" href="$classHMIndividualsExtractor.html#acb7f7caa772630162d0edce43977f330" title="HMIndividualsExtractor\l::loadMarkerSet" alt="" coords="199,80,377,130"/>
+<area shape="rect" id="node4" href="$classGERMLINE.html#a7912aa3108f42f42e06c615b460d0565" title="GERMLINE::mine" alt="" coords="216,155,360,186"/>
+<area shape="rect" id="node6" href="$classMatch.html#a989ae28b68842fc096ee6edb8c1595fd" title="Match::print" alt="" coords="237,210,339,241"/>
+<area shape="rect" id="node5" href="$GERMLINE__0001_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="428,155,481,186"/>
+</map>

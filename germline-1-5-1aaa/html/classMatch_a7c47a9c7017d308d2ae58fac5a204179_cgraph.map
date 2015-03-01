@@ -1,0 +1,5 @@
+<map id="Match::approxEqual" name="Match::approxEqual">
+<area shape="rect" id="node2" href="$classIndividual.html#adab24d093d691c3e84bdce0b2d2f3a81" title="Individual::getChromosome" alt="" coords="207,5,409,37"/>
+<area shape="rect" id="node3" href="$classMarkerSet.html#a4875bf7f161c77ff90c15936fee29ff0" title="MarkerSet::getMarkerBits" alt="" coords="213,60,403,91"/>
+<area shape="rect" id="node4" href="$classChromosome.html#a6acf26d0b4a7e2651be613ea14c20a1b" title="Chromosome::getMarkerSet" alt="" coords="206,115,410,146"/>
+</map>

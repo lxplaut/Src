@@ -1,0 +1,16 @@
+<map id="MatchesBuilder::matchMarkerSet" name="MatchesBuilder::matchMarkerSet">
+<area shape="rect" id="node2" href="$classMatchFactory.html#a247e2d6028e27d243b97b2df0f035f1f" title="MatchFactory::assertShares" alt="" coords="292,5,491,37"/>
+<area shape="rect" id="node3" href="$classIndividual.html#a37fd25dcc27a8613ca4e5a8d9bcbaca6" title="Individual::assertShares" alt="" coords="805,56,980,87"/>
+<area shape="rect" id="node8" href="$classIndividuals.html#ac1f8fff7b6e6a737ababc975495b5f65" title="Individuals::begin" alt="" coords="323,217,461,249"/>
+<area shape="rect" id="node9" href="$classMatchFactory.html#aa1f3b5e8f0e2fbd5ac2dcbc24a9e6812" title="MatchFactory::hash" alt="" coords="317,163,467,194"/>
+<area shape="rect" id="node13" href="$classMatchFactory.html#af71633ad61d5812b60e3d64c37cd64d4" title="MatchFactory::initialize" alt="" coords="304,272,480,303"/>
+<area shape="rect" id="node14" href="$classIndividuals.html#ac9d09bbae9d26e39364b099c4366daf1" title="Individuals::more" alt="" coords="324,327,459,358"/>
+<area shape="rect" id="node15" href="$classIndividuals.html#a1bd919e3eef3e84c8849623789051f08" title="Individuals::next" alt="" coords="327,381,457,413"/>
+<area shape="rect" id="node4" href="$classMatch.html#a7c47a9c7017d308d2ae58fac5a204179" title="Match::approxEqual" alt="" coords="1028,163,1181,194"/>
+<area shape="rect" id="node5" href="$classIndividual.html#adab24d093d691c3e84bdce0b2d2f3a81" title="Individual::getChromosome" alt="" coords="1230,301,1432,333"/>
+<area shape="rect" id="node6" href="$classMarkerSet.html#a4875bf7f161c77ff90c15936fee29ff0" title="MarkerSet::getMarkerBits" alt="" coords="1236,136,1426,167"/>
+<area shape="rect" id="node7" href="$classChromosome.html#a6acf26d0b4a7e2651be613ea14c20a1b" title="Chromosome::getMarkerSet" alt="" coords="1229,209,1433,241"/>
+<area shape="rect" id="node10" href="$classIndividual.html#a7c494813e7d0f7f4f235cd75185fd2be" title="Individual::numHet" alt="" coords="575,217,722,249"/>
+<area shape="rect" id="node11" href="$classIndividual.html#a6e75847d9fdd923bd0cf7a9ec5e2b1a4" title="Individual::assertHomozygous" alt="" coords="539,163,757,194"/>
+<area shape="rect" id="node12" href="$classMatch.html#afb81327901b29b02ff117406cdec0a4e" title="Match::extendBack" alt="" coords="819,163,966,194"/>
+</map>

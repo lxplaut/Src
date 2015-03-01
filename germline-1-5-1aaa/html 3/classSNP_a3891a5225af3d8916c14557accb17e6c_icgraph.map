@@ -1,0 +1,5 @@
+<map id="SNP::getMarkerNumber" name="SNP::getMarkerNumber">
+<area shape="rect" id="node2" href="$classPEDIndividualsExtractor.html#af11b156fe02d076d45f490b1d240f81c" title="PEDIndividualsExtractor\l::getCompleteMarkerSet" alt="" coords="232,5,415,56"/>
+<area shape="rect" id="node3" href="$classHMIndividualsExtractor.html#acb7f7caa772630162d0edce43977f330" title="HMIndividualsExtractor\l::loadMarkerSet" alt="" coords="234,80,413,130"/>
+<area shape="rect" id="node4" href="$classMatch.html#a989ae28b68842fc096ee6edb8c1595fd" title="Match::print" alt="" coords="273,155,374,186"/>
+</map>

@@ -1,0 +1,4 @@
+
+
+
+./germline -silent -bits 50 -min_m 1 -err_hom 2 -err_het 0 < test/alextest.run > test/alexgenerated.out 2> test/alexgenerated.err

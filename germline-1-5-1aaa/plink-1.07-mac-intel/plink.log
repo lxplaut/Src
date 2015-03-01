@@ -1,0 +1,43 @@
+
+@----------------------------------------------------------@
+|        PLINK!       |     v1.07      |   10/Aug/2009     |
+|----------------------------------------------------------|
+|  (C) 2009 Shaun Purcell, GNU General Public License, v2  |
+|----------------------------------------------------------|
+|  For documentation, citation & bug-report instructions:  |
+|        http://pngu.mgh.harvard.edu/purcell/plink/        |
+@----------------------------------------------------------@
+
+Web-based version check ( --noweb to skip )
+Recent cached web-check found... OK, v1.07 is current
+
++++ PLINK 1.9 is now available! See above website for details +++ 
+
+Writing this text to log file [ plink.log ]
+Analysis started: Mon Sep  8 13:28:17 2014
+
+Options in effect:
+	--recode
+	--transpose
+	--file normal
+
+2 (of 2) markers to be included from [ normal.map ]
+6 individuals read from [ normal.ped ] 
+6 individuals with nonmissing phenotypes
+Assuming a disease phenotype (1=unaff, 2=aff, 0=miss)
+Missing phenotype value is also -9
+3 cases, 3 controls and 0 missing
+6 males, 0 females, and 0 of unspecified sex
+Before frequency and genotyping pruning, there are 2 SNPs
+6 founders and 0 non-founders found
+Total genotyping rate in remaining individuals is 1
+0 SNPs failed missingness test ( GENO > 1 )
+0 SNPs failed frequency test ( MAF < 0 )
+After frequency and genotyping pruning, there are 2 SNPs
+After filtering, 3 cases, 3 controls and 0 missing
+After filtering, 6 males, 0 females, and 0 of unspecified sex
+Writing transposed ped file to [ plink.tped ] 
+Writing family information to [ plink.tfam ] 
+
+Analysis finished: Mon Sep  8 13:28:17 2014
+

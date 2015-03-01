@@ -1,0 +1,19 @@
+<map id="Individual::getChromosome" name="Individual::getChromosome">
+<area shape="rect" id="node2" href="$classMatch.html#a7c47a9c7017d308d2ae58fac5a204179" title="Match::approxEqual" alt="" coords="255,87,408,118"/>
+<area shape="rect" id="node11" href="$classMatchFactory.html#aa1f3b5e8f0e2fbd5ac2dcbc24a9e6812" title="MatchFactory::hash" alt="" coords="929,60,1078,91"/>
+<area shape="rect" id="node13" href="$classMatch.html#ad096e35ab1b57725ca15372b1c0eebe6" title="Match::diff" alt="" coords="284,220,379,251"/>
+<area shape="rect" id="node15" href="$classMatch.html#ad3c0caeb0a6c2e878ab32d82ad6fe9d8" title="Match::isHom" alt="" coords="275,275,388,306"/>
+<area shape="rect" id="node16" href="$Individual_8h.html#a51c3dd4bb7a3668c4dd06c743bd629ff" title="operator\&lt;\&lt;" alt="" coords="285,329,378,361"/>
+<area shape="rect" id="node17" href="$classMatch.html#ad8dfa0cc3b9bc5cacc26457f6098904b" title="Match::scanLeft" alt="" coords="268,384,395,415"/>
+<area shape="rect" id="node18" href="$classMatch.html#a5ddbdc8424b9fdfe8327ddd7c15637e8" title="Match::scanRight" alt="" coords="264,439,399,470"/>
+<area shape="rect" id="node3" href="$classIndividual.html#a37fd25dcc27a8613ca4e5a8d9bcbaca6" title="Individual::assertShares" alt="" coords="916,5,1091,37"/>
+<area shape="rect" id="node9" href="$classMatch.html#afb81327901b29b02ff117406cdec0a4e" title="Match::extendBack" alt="" coords="456,87,603,118"/>
+<area shape="rect" id="node4" href="$classMatchesBuilder.html#af44853a4e7540f4f54a802a5d0c45faf" title="MatchesBuilder::matchMarkerSet" alt="" coords="1139,33,1378,65"/>
+<area shape="rect" id="node5" href="$classMatchesBuilder.html#ae8d8a0ff7f0726406e83d4fa55a96bf4" title="MatchesBuilder::matchAll\lMarkers" alt="" coords="1426,24,1618,74"/>
+<area shape="rect" id="node6" href="$classMatchesBuilder.html#a31faf645700f38ac0d7d164b57cfebd1" title="MatchesBuilder::buildMatches" alt="" coords="1666,33,1886,65"/>
+<area shape="rect" id="node7" href="$classGERMLINE.html#a7912aa3108f42f42e06c615b460d0565" title="GERMLINE::mine" alt="" coords="1934,33,2079,65"/>
+<area shape="rect" id="node8" href="$GERMLINE__0001_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2127,33,2180,65"/>
+<area shape="rect" id="node10" href="$classIndividual.html#a6e75847d9fdd923bd0cf7a9ec5e2b1a4" title="Individual::assertHomozygous" alt="" coords="651,59,868,90"/>
+<area shape="rect" id="node12" href="$classShare.html#aef9bc1c8649dbe3039e1a35ea3050715" title="Share::assertMatches" alt="" coords="681,113,838,145"/>
+<area shape="rect" id="node14" href="$classMatch.html#a989ae28b68842fc096ee6edb8c1595fd" title="Match::print" alt="" coords="479,329,580,361"/>
+</map>

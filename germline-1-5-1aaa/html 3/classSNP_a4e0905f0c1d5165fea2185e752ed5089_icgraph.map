@@ -1,0 +1,6 @@
+<map id="SNP::setSNPID" name="SNP::setSNPID">
+<area shape="rect" id="node2" href="$classSNPs.html#a5ebf04c1e5d71710bd68af7a556864f9" title="SNPs::processLegendFile" alt="" coords="177,20,364,51"/>
+<area shape="rect" id="node4" href="$classSNPs.html#a0f26b6fbd02cc5afd8d423b411d304e8" title="SNPs::processMAPFile" alt="" coords="184,80,357,111"/>
+<area shape="rect" id="node3" href="$classHMIndividualsExtractor.html#af7aaa5ed222fd00cc2c36e69a01a3bb3" title="HMIndividualsExtractor\l::loadInput" alt="" coords="414,5,592,56"/>
+<area shape="rect" id="node5" href="$classPEDIndividualsExtractor.html#aaaae7102f9e3db6f900b3d56f559dc91" title="PEDIndividualsExtractor\l::loadInput" alt="" coords="412,80,595,130"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="SNP::getChr" name="SNP::getChr">
+<area shape="rect" id="node2" href="$classSNPs.html#a79df6854d1863b8f2e14fd324ad5752b" title="SNPs::addSNP" alt="" coords="193,26,311,57"/>
+<area shape="rect" id="node7" href="$classMatch.html#ac0f1cc64fb2cf592a1d9d8e896348855" title="Match::chromosome" alt="" coords="175,135,329,166"/>
+<area shape="rect" id="node8" href="$classSNPs.html#a966e05b1d44910967919ed5aabf7f3a2" title="SNPs::getGeneticDistance" alt="" coords="156,80,348,111"/>
+<area shape="rect" id="node9" href="$classMatch.html#a989ae28b68842fc096ee6edb8c1595fd" title="Match::print" alt="" coords="201,190,303,221"/>
+<area shape="rect" id="node3" href="$classSNPs.html#a0f26b6fbd02cc5afd8d423b411d304e8" title="SNPs::processMAPFile" alt="" coords="402,26,575,57"/>
+<area shape="rect" id="node5" href="$classSNPs.html#a5ebf04c1e5d71710bd68af7a556864f9" title="SNPs::processLegendFile" alt="" coords="396,80,582,111"/>
+<area shape="rect" id="node4" href="$classPEDIndividualsExtractor.html#aaaae7102f9e3db6f900b3d56f559dc91" title="PEDIndividualsExtractor\l::loadInput" alt="" coords="630,5,813,56"/>
+<area shape="rect" id="node6" href="$classHMIndividualsExtractor.html#af7aaa5ed222fd00cc2c36e69a01a3bb3" title="HMIndividualsExtractor\l::loadInput" alt="" coords="632,80,811,130"/>
+</map>

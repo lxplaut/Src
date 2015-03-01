@@ -1,0 +1,12 @@
+<map id="SNPs::processMAPFile" name="SNPs::processMAPFile">
+<area shape="rect" id="node2" href="$classSNPs.html#a79df6854d1863b8f2e14fd324ad5752b" title="SNPs::addSNP" alt="" coords="265,5,384,37"/>
+<area shape="rect" id="node4" href="$classSNPs.html#a966e05b1d44910967919ed5aabf7f3a2" title="SNPs::getGeneticDistance" alt="" coords="229,60,420,91"/>
+<area shape="rect" id="node6" href="$classSNP.html#af9eff18f0ff52b1d6184d5f929f90290" title="SNP::setCentimorgan" alt="" coords="244,115,405,146"/>
+<area shape="rect" id="node7" href="$classSNP.html#a0845feb56b14b488595d93567369f7c5" title="SNP::setChr" alt="" coords="274,169,375,201"/>
+<area shape="rect" id="node8" href="$classSNPs.html#aab7887e45f048314552ec8c9d657eec8" title="SNPs::setGeneticDistances" alt="" coords="227,224,422,255"/>
+<area shape="rect" id="node9" href="$classSNP.html#a61968e34d753198196b179a2a3aafce4" title="SNP::setMarkerNumber" alt="" coords="236,279,413,310"/>
+<area shape="rect" id="node10" href="$classSNP.html#ad7a6b88dd8139d62c7fc24c1a1fe0f6e" title="SNP::setPhysPos" alt="" coords="259,333,390,365"/>
+<area shape="rect" id="node11" href="$classSNP.html#a4e0905f0c1d5165fea2185e752ed5089" title="SNP::setSNPID" alt="" coords="263,388,386,419"/>
+<area shape="rect" id="node3" href="$classSNP.html#a1cf02a7f908f653fb2645935b0bdcc3d" title="SNP::getChr" alt="" coords="481,5,584,37"/>
+<area shape="rect" id="node5" href="$classSNP.html#acb364c2ba0b3daf71f3a83a9f9f4fa1b" title="SNP::getSNPID" alt="" coords="470,60,595,91"/>
+</map>

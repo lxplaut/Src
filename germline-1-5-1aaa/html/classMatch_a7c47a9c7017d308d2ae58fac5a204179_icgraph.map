@@ -1,0 +1,12 @@
+<map id="Match::approxEqual" name="Match::approxEqual">
+<area shape="rect" id="node2" href="$classIndividual.html#a37fd25dcc27a8613ca4e5a8d9bcbaca6" title="Individual::assertShares" alt="" coords="667,5,842,37"/>
+<area shape="rect" id="node8" href="$classMatch.html#afb81327901b29b02ff117406cdec0a4e" title="Match::extendBack" alt="" coords="206,60,353,91"/>
+<area shape="rect" id="node3" href="$classMatchesBuilder.html#af44853a4e7540f4f54a802a5d0c45faf" title="MatchesBuilder::matchMarkerSet" alt="" coords="890,33,1129,65"/>
+<area shape="rect" id="node4" href="$classMatchesBuilder.html#ae8d8a0ff7f0726406e83d4fa55a96bf4" title="MatchesBuilder::matchAll\lMarkers" alt="" coords="1177,24,1369,74"/>
+<area shape="rect" id="node5" href="$classMatchesBuilder.html#a31faf645700f38ac0d7d164b57cfebd1" title="MatchesBuilder::buildMatches" alt="" coords="1417,33,1636,65"/>
+<area shape="rect" id="node6" href="$classGERMLINE.html#a7912aa3108f42f42e06c615b460d0565" title="GERMLINE::mine" alt="" coords="1684,33,1829,65"/>
+<area shape="rect" id="node7" href="$GERMLINE__0001_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1877,33,1930,65"/>
+<area shape="rect" id="node9" href="$classIndividual.html#a6e75847d9fdd923bd0cf7a9ec5e2b1a4" title="Individual::assertHomozygous" alt="" coords="401,60,619,91"/>
+<area shape="rect" id="node11" href="$classShare.html#aef9bc1c8649dbe3039e1a35ea3050715" title="Share::assertMatches" alt="" coords="431,115,588,146"/>
+<area shape="rect" id="node10" href="$classMatchFactory.html#aa1f3b5e8f0e2fbd5ac2dcbc24a9e6812" title="MatchFactory::hash" alt="" coords="679,60,829,91"/>
+</map>

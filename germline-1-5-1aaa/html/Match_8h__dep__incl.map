@@ -1,0 +1,23 @@
+<map id="Match.h" name="Match.h">
+<area shape="rect" id="node2" href="$Individual_8h.html" title="Individual.h" alt="" coords="1076,85,1175,116"/>
+<area shape="rect" id="node22" href="$Match_8cpp.html" title="Match.cpp" alt="" coords="1200,85,1289,116"/>
+<area shape="rect" id="node3" href="$Individuals_8h.html" title="Individuals.h" alt="" coords="930,164,1036,195"/>
+<area shape="rect" id="node18" href="$MatchFactory_8h.html" title="MatchFactory.h" alt="" coords="1064,164,1187,195"/>
+<area shape="rect" id="node20" href="$Share_8cpp.html" title="Share.cpp" alt="" coords="1211,164,1296,195"/>
+<area shape="rect" id="node21" href="$Individual_8cpp.html" title="Individual.cpp" alt="" coords="1320,164,1435,195"/>
+<area shape="rect" id="node4" href="$PolymorphicIndividualsExtractor_8h.html" title="PolymorphicIndividualsExtractor.h" alt="" coords="499,243,747,274"/>
+<area shape="rect" id="node5" href="$InputManager_8h.html" title="InputManager.h" alt="" coords="734,322,858,353"/>
+<area shape="rect" id="node6" href="$GERMLINE_8h.html" title="GERMLINE.h" alt="" coords="837,401,953,433"/>
+<area shape="rect" id="node10" href="$MatchesBuilder_8h.html" title="MatchesBuilder.h" alt="" coords="994,322,1129,353"/>
+<area shape="rect" id="node17" href="$Individuals_8cpp.html" title="Individuals.cpp" alt="" coords="923,243,1043,274"/>
+<area shape="rect" id="node12" href="$HMIndividualsExtractor_8h.html" title="HMIndividualsExtractor.h" alt="" coords="13,322,204,353"/>
+<area shape="rect" id="node14" href="$PEDIndividualsExtractor_8h.html" title="PEDIndividualsExtractor.h" alt="" coords="228,322,423,353"/>
+<area shape="rect" id="node16" href="$PolymorphicIndividualsExtractor_8cpp.html" title="PolymorphicIndividualsExtractor.cpp" alt="" coords="448,322,710,353"/>
+<area shape="rect" id="node9" href="$InputManager_8cpp.html" title="InputManager.cpp" alt="" coords="245,401,384,433"/>
+<area shape="rect" id="node7" href="$GERMLINE__0001_8cpp.html" title="GERMLINE_0001.cpp" alt="" coords="723,481,894,512"/>
+<area shape="rect" id="node8" href="$GERMLINE_8cpp.html" title="GERMLINE.cpp" alt="" coords="917,481,1048,512"/>
+<area shape="rect" id="node11" href="$MatchesBuilder_8cpp.html" title="MatchesBuilder.cpp" alt="" coords="986,401,1137,433"/>
+<area shape="rect" id="node13" href="$HMIndividualsExtractor_8cpp.html" title="HMIndividualsExtractor.cpp" alt="" coords="5,401,211,433"/>
+<area shape="rect" id="node15" href="$PEDIndividualsExtractor_8cpp.html" title="PEDIndividualsExtractor.cpp" alt="" coords="408,401,619,433"/>
+<area shape="rect" id="node19" href="$MatchFactory_8cpp.html" title="MatchFactory.cpp" alt="" coords="1168,243,1307,274"/>
+</map>

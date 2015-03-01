@@ -1,0 +1,22 @@
+<map id="MatchesBuilder::buildMatches" name="MatchesBuilder::buildMatches">
+<area shape="rect" id="node2" href="$classMatchesBuilder.html#ae8d8a0ff7f0726406e83d4fa55a96bf4" title="MatchesBuilder::matchAll\lMarkers" alt="" coords="294,217,486,268"/>
+<area shape="rect" id="node18" href="$classMatchesBuilder.html#ad627b36445ae9df99c732b23c8b06547" title="MatchesBuilder::readAllMarkers" alt="" coords="273,146,507,177"/>
+<area shape="rect" id="node3" href="$classMatchesBuilder.html#af44853a4e7540f4f54a802a5d0c45faf" title="MatchesBuilder::matchMarkerSet" alt="" coords="555,235,794,266"/>
+<area shape="rect" id="node4" href="$classIndividuals.html#ac1f8fff7b6e6a737ababc975495b5f65" title="Individuals::begin" alt="" coords="890,80,1028,111"/>
+<area shape="rect" id="node5" href="$classIndividuals.html#ac9d09bbae9d26e39364b099c4366daf1" title="Individuals::more" alt="" coords="892,135,1027,166"/>
+<area shape="rect" id="node6" href="$classMatchFactory.html#aa1f3b5e8f0e2fbd5ac2dcbc24a9e6812" title="MatchFactory::hash" alt="" coords="885,322,1034,353"/>
+<area shape="rect" id="node14" href="$classIndividuals.html#a1bd919e3eef3e84c8849623789051f08" title="Individuals::next" alt="" coords="894,190,1024,221"/>
+<area shape="rect" id="node15" href="$classMatchFactory.html#a247e2d6028e27d243b97b2df0f035f1f" title="MatchFactory::assertShares" alt="" coords="860,376,1059,407"/>
+<area shape="rect" id="node16" href="$classIndividual.html#a37fd25dcc27a8613ca4e5a8d9bcbaca6" title="Individual::assertShares" alt="" coords="1391,240,1566,271"/>
+<area shape="rect" id="node17" href="$classMatchFactory.html#af71633ad61d5812b60e3d64c37cd64d4" title="MatchFactory::initialize" alt="" coords="871,431,1047,462"/>
+<area shape="rect" id="node7" href="$classIndividual.html#a7c494813e7d0f7f4f235cd75185fd2be" title="Individual::numHet" alt="" coords="1160,402,1308,433"/>
+<area shape="rect" id="node8" href="$classIndividual.html#a6e75847d9fdd923bd0cf7a9ec5e2b1a4" title="Individual::assertHomozygous" alt="" coords="1125,347,1343,378"/>
+<area shape="rect" id="node11" href="$classIndividual.html#adab24d093d691c3e84bdce0b2d2f3a81" title="Individual::getChromosome" alt="" coords="1816,320,2017,351"/>
+<area shape="rect" id="node12" href="$classMarkerSet.html#a4875bf7f161c77ff90c15936fee29ff0" title="MarkerSet::getMarkerBits" alt="" coords="1821,394,2012,425"/>
+<area shape="rect" id="node13" href="$classChromosome.html#a6acf26d0b4a7e2651be613ea14c20a1b" title="Chromosome::getMarkerSet" alt="" coords="1815,486,2018,517"/>
+<area shape="rect" id="node9" href="$classMatch.html#afb81327901b29b02ff117406cdec0a4e" title="Match::extendBack" alt="" coords="1405,347,1552,378"/>
+<area shape="rect" id="node10" href="$classMatch.html#a7c47a9c7017d308d2ae58fac5a204179" title="Match::approxEqual" alt="" coords="1614,347,1767,378"/>
+<area shape="rect" id="node19" href="$classMatchesBuilder.html#a24030d91efc506dab6732cdb9a89f0ab" title="MatchesBuilder::readHaploid\lMarkerSet" alt="" coords="568,71,780,121"/>
+<area shape="rect" id="node21" href="$classMatchesBuilder.html#a0ce39fec7c735700c83a21f4b53f5bbf" title="MatchesBuilder::readMarkerSet" alt="" coords="560,146,788,177"/>
+<area shape="rect" id="node20" href="$classPolymorphicIndividualsExtractor.html#af99fabbecd263daa88696353f9fcfeff" title="PolymorphicIndividualsExtractor\l::getCompleteMarkerSet" alt="" coords="842,5,1077,56"/>
+</map>

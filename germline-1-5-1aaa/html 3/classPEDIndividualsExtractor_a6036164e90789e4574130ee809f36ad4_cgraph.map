@@ -1,0 +1,6 @@
+<map id="PEDIndividualsExtractor::getCompleteMarkerSet" name="PEDIndividualsExtractor::getCompleteMarkerSet">
+<area shape="rect" id="node2" href="$classIndividual.html#af7f3a1e23fcb643c40b8a925c20c367b" title="Individual::addMarkerSet" alt="" coords="236,5,423,37"/>
+<area shape="rect" id="node3" href="$classSNP.html#a3891a5225af3d8916c14557accb17e6c" title="SNP::getMarkerNumber" alt="" coords="240,60,419,91"/>
+<area shape="rect" id="node4" href="$classIndividual.html#a4932af57f66adb254dcb53eef679d9d2" title="Individual::getOffset" alt="" coords="252,115,407,146"/>
+<area shape="rect" id="node5" href="$classSNPs.html#ae27666e68ba06ba960eeced83704ef9d" title="SNPs::getROIStart" alt="" coords="258,169,401,201"/>
+</map>

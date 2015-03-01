@@ -1,0 +1,6 @@
+<map id="Individual::assertShares" name="Individual::assertShares">
+<area shape="rect" id="node2" href="$classMatch.html#a7c47a9c7017d308d2ae58fac5a204179" title="Match::approxEqual" alt="" coords="228,60,381,91"/>
+<area shape="rect" id="node3" href="$classIndividual.html#adab24d093d691c3e84bdce0b2d2f3a81" title="Individual::getChromosome" alt="" coords="430,5,632,37"/>
+<area shape="rect" id="node4" href="$classChromosome.html#a6acf26d0b4a7e2651be613ea14c20a1b" title="Chromosome::getMarkerSet" alt="" coords="429,60,633,91"/>
+<area shape="rect" id="node5" href="$classMarkerSet.html#a4875bf7f161c77ff90c15936fee29ff0" title="MarkerSet::getMarkerBits" alt="" coords="436,115,626,146"/>
+</map>

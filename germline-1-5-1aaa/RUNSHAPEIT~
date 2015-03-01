@@ -1,0 +1,6 @@
+cd /Users/dianeplaut/Desktop/Src/germline-1-5-1aaa/
+../shapeit --input-bed gwas.bed gwas.bim gwas.fam \
+        --input-map genetic_map.txt \
+        --output-max gwas.phased.haps gwas.phased.sample
+../shapeit --input-bed gwas.bed gwas.bim gwas.fam --input-map genetic_map.txt --output-max gwas.phased.haps gwas.phased.sample
+

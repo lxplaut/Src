@@ -1,0 +1,17 @@
+<map id="HMIndividualsExtractor::loadInput" name="HMIndividualsExtractor::loadInput">
+<area shape="rect" id="node2" href="$classSNPs.html#a7e4f810a6d54fdd7d84c0a1b8bc38647" title="SNPs::beginChromosome" alt="" coords="232,197,420,229"/>
+<area shape="rect" id="node3" href="$classSNPs.html#a5ebf04c1e5d71710bd68af7a556864f9" title="SNPs::processLegendFile" alt="" coords="232,252,419,283"/>
+<area shape="rect" id="node16" href="$classSNPs.html#ae2cd85e5aa4517c008fe42a17eae0e60" title="SNPs::size" alt="" coords="280,307,371,338"/>
+<area shape="rect" id="node4" href="$classSNP.html#a4e0905f0c1d5165fea2185e752ed5089" title="SNP::setSNPID" alt="" coords="503,5,627,37"/>
+<area shape="rect" id="node5" href="$classSNP.html#ad7a6b88dd8139d62c7fc24c1a1fe0f6e" title="SNP::setPhysPos" alt="" coords="499,60,631,91"/>
+<area shape="rect" id="node6" href="$classSNP.html#a48dda4a0e2279f6da968f910d6905877" title="SNP::setVariant" alt="" coords="503,115,628,146"/>
+<area shape="rect" id="node7" href="$classSNP.html#a61968e34d753198196b179a2a3aafce4" title="SNP::setMarkerNumber" alt="" coords="477,169,654,201"/>
+<area shape="rect" id="node8" href="$classSNP.html#af9eff18f0ff52b1d6184d5f929f90290" title="SNP::setCentimorgan" alt="" coords="485,224,646,255"/>
+<area shape="rect" id="node9" href="$classSNPs.html#a966e05b1d44910967919ed5aabf7f3a2" title="SNPs::getGeneticDistance" alt="" coords="470,279,661,310"/>
+<area shape="rect" id="node12" href="$classSNP.html#a1787003e80c13e350f4691cf572a4468" title="SNP::getCentimorgan" alt="" coords="484,333,647,365"/>
+<area shape="rect" id="node13" href="$classSNP.html#a0845feb56b14b488595d93567369f7c5" title="SNP::setChr" alt="" coords="515,388,616,419"/>
+<area shape="rect" id="node14" href="$classSNPs.html#a79df6854d1863b8f2e14fd324ad5752b" title="SNPs::addSNP" alt="" coords="506,443,624,474"/>
+<area shape="rect" id="node15" href="$classSNPs.html#aab7887e45f048314552ec8c9d657eec8" title="SNPs::setGeneticDistances" alt="" coords="468,497,663,529"/>
+<area shape="rect" id="node10" href="$classSNP.html#a1cf02a7f908f653fb2645935b0bdcc3d" title="SNP::getChr" alt="" coords="722,388,825,419"/>
+<area shape="rect" id="node11" href="$classSNP.html#acb364c2ba0b3daf71f3a83a9f9f4fa1b" title="SNP::getSNPID" alt="" coords="711,279,836,310"/>
+</map>
