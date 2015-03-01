@@ -1,0 +1,138 @@
+
+
+                               Germline
+
+
+GERMLINE ==>  .MATCH + .LOG
+PHASEG
+MAP + PED ==>  
+
+
+
+
+
+
+
+
+                                Plink
+
+http://pngu.mgh.harvard.edu/~purcell/plink/reference.shtml
+
+
+
+
+
+
+HapMap + PED  ==> GERMLINE
+PED ==>  
+PHASEG + HapMap ==> GERMLINE?
+
+
+
+
+
+
+                                Genome
+
+http://csg.sph.umich.edu/liang/genome/
+
+
+-pop 3 10 15 20 ==>  Wright-Fisher
+
+
+                               Shapeit
+
+
+http://mathgen.stats.ox.ac.uk/genetics_software/shapeit/shapeit.html
+http://mathgen.stats.ox.ac.uk/genetics_software/shapeit/shapeit.html#options
+
+
+
+SHAPEIT is a fast and accurate method for estimation of haplotypes (aka phasing) from genotype or sequencing data.
+
+
+GENOTYPE ==> PHASED
+SEQUENCING ==> PHASED
+
+--input-bed BED --input-map  MAP  ==>  --output-max HAPS PHASED
+
+
+                           Shapeit/IMPUTE2
+
+Genotype =>  PHASED (phasing input, adding missing Genotypes)
+
+
+
+
+
+
+                              Reference
+
+
+
+GERMLINE   is it MAP + PED files??
+
+
+PHASEG  (germline)
+
+
+PHASEDGWAS  (shapeit)
+
+PHASED (in plink document)
+
+PHASEDWIDE (in plink document)
+
+
+BED 
+
+http://mathgen.stats.ox.ac.uk/genetics_software/shapeit/shapeit.html#bed
+http://pngu.mgh.harvard.edu/%7Epurcell/plink/data.shtml#bed
+
+
+Unphased genotypes in Plink Text PED/MAP format:
+
+
+HAPS
+
+A reference GWAS format made by Shapeit with --output-max switch  (from Impute2)
+
+
+HapMap
+
+
+
+
+
+MAP
+
+ShapeIt  format is position  Combined_rate_(cM/Mb)   Genetic_Map(cM)
+
+
+
+
+
+
+PED
+
+
+
+MATCH
+
+
+
+LOG
+
+
+
+
+
+EXTRA
+
+
+GWAS   is   http://en.wikipedia.org/wiki/Genome-wide_association_study
+
+SNP    is    http://en.wikipedia.org/wiki/Single-nucleotide_polymorphism
+             http://ghr.nlm.nih.gov/handbook/genomicresearch/snp
+
+HapMap  is hapmap.ncbi.nlm.nih.gov
+
