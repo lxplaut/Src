@@ -1,13 +1,13 @@
-# Src
+# Germline Work
 
 
 
+"GERMLINE uses a novel hashing & extension algorithm which allows for segment identification in haplotype data in time proportional to the number of individuals. (Base)(My contributions are added through branches)"
+
+There is documentation for Germline throguh a doxygen program I made and on the Germline website. Link for my Documentation: file:///Users/dianeplaut/Desktop/Src/germline-1-5-1/Germline/html/annotated.html Germline Website: http://www1.cs.columbia.edu/~gusev/germline/
 
 
-
-
-
-
+Directories Key:
 Germline 1-5-1aaa: Germline directory with my changes in it
 
 Germline 1-5-1: Germline without changes
