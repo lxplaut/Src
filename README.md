@@ -6,7 +6,7 @@
 
 There is documentation for Germline throguh a doxygen program I made and on the Germline website. 
 
-Link for my Documentation: file:///Users/dianeplaut/Desktop/Src/germline-1-5-1/Germline/html/annotated.html 
+Link for my Documentation: file:///Users/dianeplaut/Desktop/Src/germline-1-5-1/Germline/html/annotated.html (To Access: Download zip, open any html folder, open any file under any html folder with a search engine logo)
 
 Germline Website: http://www1.cs.columbia.edu/~gusev/germline/
 
